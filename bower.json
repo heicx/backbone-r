@@ -1,0 +1,26 @@
+{
+  "name": "backbone-example",
+  "description": "backbone-example",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "backbone"
+  ],
+  "authors": [
+    "heicx_sudo"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "backbone": "~1.2.3",
+    "backbone.localStorage": "Backbone.localStorage#~1.1.16"
+  }
+}
